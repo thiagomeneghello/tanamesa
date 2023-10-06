@@ -1,10 +1,10 @@
-streamlit==1.25.0
-plotly==1.25.0
-folium==1.25.0
-pandas==1.25.0
-numpy==1.25.0
-streamlit_folium==1.25.0
-Pillow==1.25.0
+streamlit==1.15.1
+plotly==5.10.0
+folium==0.13.0
+pandas==1.4.3
+numpy==1.23.1
+streamlit_folium==0.7.0
+Pillow==9.2.0
 inflection==1.25.0
 matplotlib==3.5.3
 matplotlib-inline==0.1.6
